@@ -1,5 +1,3 @@
-<img width="2752" height="1536" alt="og" src="https://github.com/user-attachments/assets/3449d15c-1ebc-4f69-8d16-c2d85aee597f" />
-
 # TapIn
 
 **One URL for all your links** - An open-source alternative to Linktree. Create a beautiful profile page to share all your important links in one place.
