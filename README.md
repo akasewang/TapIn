@@ -171,10 +171,6 @@ Quick start:
 
 For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](./LICENSE) file for details.
-
 ---
 
 Made by [Akash Dewangan](https://github.com/akasewang)
